@@ -13,7 +13,7 @@
 	"require": {
 		"php": ">=5.3.2",
 		"venne/framework": "2.0.x-dev",
-		"o5/grido": "dev-master"
+		"o5/grido": "0.9.3"
 	},
 	"extra": {
 		"branch-alias": {
